@@ -2,6 +2,7 @@
 
 ## SplitTicketLogParser
 
+```
 Help on class SplitTicketLogParser in module SplitTicketLogParser:
 
 class SplitTicketLogParser
@@ -22,3 +23,4 @@ class SplitTicketLogParser
  |
  |  as_list(self)
  |      return the parsed files as a list (no filenames, only file contents).
+```
